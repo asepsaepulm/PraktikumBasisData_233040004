@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[NIM]
+      ,[NAMA]
+      ,[JURUSAN]
+      ,[TANGGAL_LAHIR]
+  FROM [latihan 1].[dbo].[mahasiswa]
